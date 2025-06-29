@@ -1,7 +1,7 @@
 # yo! im fraxcco!
 
 <a href="https://github.com/byfraxcco" target="_blank">
-    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=byfraxcco&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true">
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=fraxcco&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true">
 </a>
 
 <a href="https://discord.com/users/517729180054716416">
