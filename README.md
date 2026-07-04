@@ -4,21 +4,21 @@
   <br>
 
   <!-- Social Media Badges -->
-  <a href="https://discord.com/users/517729180054716416" style="text-decoration:none; opacity:1;">
+  <a href="https://discord.com/users/517729180054716416" target="_blank" style="text-decoration:none; opacity:1;">
       <img src="https://img.shields.io/badge/-Discord-f5c2e7?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
   </a>
-  <a href="https://twitter.com/fraxcco" style="text-decoration:none; opacity:1;">
+  <a href="https://twitter.com/fraxcco" target="_blank" style="text-decoration:none; opacity:1;">
       <img src="https://img.shields.io/badge/-Twitter-f5c2e7?style=for-the-badge&logo=x&logoColor=000000" alt="Twitter" />
   </a>
-  <a href="https://steamcommunity.com/id/fraxcco" style="text-decoration:none; opacity:1;">
+  <a href="https://steamcommunity.com/id/fraxcco" target="_blank" style="text-decoration:none; opacity:1;">
       <img src="https://img.shields.io/badge/-Steam-f5c2e7?style=for-the-badge&logo=steam&logoColor=000000" alt="Steam" />
   </a>
   <br>
   <!-- README Languages -->
-  <a href="./README-ES.md" style="text-decoration:none; opacity:1;">
+  <a href="./README-ES.md" target="_blank" style="text-decoration:none; opacity:1;">
       <img src="https://img.shields.io/badge/README-ESP-blue?color=yellow&labelColor=red&style=for-the-badge" alt="Español">
   </a>
-  <a href="./README.md" style="text-decoration:none; opacity:1;">
+  <a href="./README.md" target="_blank" style="text-decoration:none; opacity:1;">
       <img src="https://img.shields.io/badge/README-ENG-blue?color=white&labelColor=blue&style=for-the-badge" alt="English">
   </a>
   <br>
